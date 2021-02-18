@@ -5,11 +5,11 @@
 
 Turns an external LED on/off with bush Button.
 
-Tools : 2V Led , 220 Ohms Resistance (R1) , Bush button (BB)
+Tools : 2V Led , 220 Ohms Resistance (R1) , Bush button Switch (S1)
 
 Connections :
             * Pin 9 - R1 - Led (Anode)... Led (Cathod) - GND *
-            * Pin 2 - BB ... BB - GND *
+            * Pin 2 - S1 ... S1 - GND *
 
 Note: Allways check carfully the wires, devices and sensors 
       connections before connect the Arduino to the computer 
